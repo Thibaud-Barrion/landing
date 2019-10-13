@@ -1,0 +1,36 @@
+.banner{
+	background-image: linear-gradient(-180deg,rgba(255,255,255,0.1),rgba(0,0,0,0.5)),url(../../images/roadbanner.jpg);
+	color:#BBBBBB;
+	padding:200px 0px;
+	background-size: cover;
+	background-position: bottom;
+}
+
+.banner h1 {
+	font-size: 70px;
+	margin-left:5%;
+	color:#BCB9B1;
+}
+
+.banner h2 {
+	font-size: 45px;
+	font-weight: lighter;
+	opacity:0.9;
+	margin-bottom: 50px;
+	margin-left:10%;
+}
+
+.banner a{
+	margin-left: 20%;
+	background-color:#556469;
+	color:#BCB9B1;
+	padding:20px;
+	border-radius: 6px;
+	font-size: 20px;
+}
+
+.banner a:hover{
+	background-color:#BCB9B1;
+	color:#556469;
+	
+}

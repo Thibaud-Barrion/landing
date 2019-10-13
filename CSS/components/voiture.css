@@ -1,0 +1,8 @@
+.voiture{
+	
+	width: 350px;
+	height:250px;
+	filter: grayscale(50%);
+	border-radius: 6px;
+
+}
